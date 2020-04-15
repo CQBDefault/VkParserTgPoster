@@ -1,8 +1,12 @@
 # Settings
 `last_id` — put the last post ID from wall
+
 `login` — input login from your (or not your :D) VK account
+
 `password` — input password
+
 `domain` — input namelink of public or user
+
 
 Example:
 ```
