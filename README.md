@@ -13,8 +13,11 @@ Example:
 domain = cqb.default
 ```
 `count` — count of post they will be parsed
+
 `token` — will be filled automatically
+
 `bot_token` — input token of your Telegram bot
+
 `channel` — input name of your channel, with @
 
 --------------
