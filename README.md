@@ -13,4 +13,4 @@ domain = cqb.default
 `channel` — input name of your channel, with @
 
 --------------
-Created for (Vesperum team)[https://vk.com/vesperumteam] with love :3
+Created for (https://vk.com/vesperumteam)[Vesperum team] with love :3
