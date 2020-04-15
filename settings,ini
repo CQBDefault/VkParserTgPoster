@@ -1,0 +1,16 @@
+[Settings]
+last_id = 
+include_link = false
+preview_link = false
+
+[VK]
+login = login
+password = password
+domain = 
+count = 3
+token = 
+
+[Telegram]
+bot_token = 
+channel = 
+
