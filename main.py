@@ -32,7 +32,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 
 
 # Получаем данные из vk.com
-def get_data(domain_vk, count_vk):
+def get(domain_vk, count_vk):
 	global LOGIN
 	global PASSWORD
 	global VK_TOKEN
@@ -73,7 +73,7 @@ def check():
 	global config
 	global config_path
 
-	response = get_data(DOMAIN, COUNT)
+	response = get(DOMAIN, COUNT)
 	response = reversed(response['items'])
 
 	for post in response:
