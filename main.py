@@ -32,7 +32,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 
 
 # Получаем данные из vk.com
-def get(domain_vk, count_vk):
+def get(domain, count):
 	global LOGIN
 	global PASSWORD
 	global VK_TOKEN
