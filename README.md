@@ -19,6 +19,3 @@ domain = cqb.default
 `bot_token` — input token of your Telegram bot
 
 `channel` — input name of your channel, with @
-
---------------
-Created for [Vesperum team](https://vk.com/vesperumteam) with love :3
