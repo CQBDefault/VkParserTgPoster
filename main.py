@@ -59,7 +59,7 @@ def get(domain, count):
 	vk = vk_session.get_api()
 
 	# Используем метод wall.get из документации по API vk.com
-	response = vk.wall.get(domain=domain_vk, count=count_vk)
+	response = vk.wall.get(domain=domain, count=count)
 
 	return response
 
