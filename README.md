@@ -1,3 +1,7 @@
+# As first
+Write this command:
+```python install -r requirements.txt```
+
 # Settings
 `last_id` — put the last post ID from wall
 
