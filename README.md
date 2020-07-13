@@ -1,5 +1,5 @@
 # As first
-Write this command:
+Install the dependencies:
 ```python install -r requirements.txt```
 
 # Settings
@@ -23,3 +23,7 @@ domain = cqb.default
 `bot_token` — input token of your Telegram bot
 
 `channel` — input name of your channel, with @
+
+# WARNING
+If in post there are several images, bot will send text in first post, images — in second.
+The bot works very poorly with reposts, everything will be sent in turn.
